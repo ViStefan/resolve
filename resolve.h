@@ -1,0 +1,1 @@
+int resolve(char*, char**);
